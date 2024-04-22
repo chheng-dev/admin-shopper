@@ -1,0 +1,34 @@
+@import './variables.scss';
+
+.bg-primary{
+  background-color: $primary-color !important;
+}
+.text-bg-primary{
+  background-color: $primary-color !important;
+}
+
+#components-layout-demo-responsive .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.site-layout-sub-header-background {
+  background: #fff;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.ant-layout .ant-layout-sider{
+  background-color: white;
+}
+
+#nav-dropdown-dark-example{
+  line-height: 20px;
+}
+
+.dropdown-menu{
+  background-color: $primary-color;
+}
